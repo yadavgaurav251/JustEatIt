@@ -3,6 +3,15 @@ Online food ordering website for an individual
 
 Website has two different portal, One is for User and One for the Resturant Owner.
 
+## Tech/Framework Used
+
+*HTML
+*CSS
+*Bootstrap
+*PHP
+*Javascript
+*MySQL
+
 ## Screenshots (User End)
 
 Home Screen
@@ -45,3 +54,8 @@ Homepage containing different Stats
 List Of Orders 
 
 ![List Of Orders](https://github.com/yadavgaurav251/JustEatIt/blob/master/Screenshots/Screenshot%202020-03-16%20at%2012.56.43%20AM.png)
+
+## Credits
+
+  A big thanks to [Anish Raj](https://github.com/Anishraj10282) for working on this with me.
+
