@@ -5,12 +5,12 @@ Website has two different portal, One is for User and One for the Resturant Owne
 
 ## Tech/Framework Used
 
-*HTML
-*CSS
-*Bootstrap
-*PHP
-*Javascript
-*MySQL
+* HTML
+* CSS
+* Bootstrap
+* PHP
+* Javascript
+* MySQL
 
 ## Screenshots (User End)
 
