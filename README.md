@@ -1,5 +1,5 @@
 # JustEatIt
-Online food ordering app for an individual
+Online food ordering website for an individual
 
 
 ## Screenshots
