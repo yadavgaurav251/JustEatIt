@@ -19,7 +19,7 @@ Home Screen
 ![Home Screen](https://github.com/yadavgaurav251/JustEatIt/blob/master/Screenshots/Screenshot%202020-03-16%20at%2012.49.54%20AM.png)
 
 
-Home Screen When Loogged In
+Home Screen When Logged In
 
 ![Home Screen Logged In](https://github.com/yadavgaurav251/JustEatIt/blob/master/Screenshots/Screenshot%202020-03-16%20at%2012.50.56%20AM.png)
 
