@@ -1,4 +1,5 @@
 # JustEatIt
+
 Online food ordering website for an individual
 
 Website has two different portal, One is for User and One for the Resturant Owner.
@@ -46,6 +47,7 @@ Reservation Check and Reservation Booking
 ## Screenshots ( Owner End)
 
 Login
+
 ![Login](https://github.com/yadavgaurav251/JustEatIt/blob/master/Screenshots/Screenshot%202020-03-16%20at%201.58.49%20AM.png)
 
 Homepage containing different Stats 
